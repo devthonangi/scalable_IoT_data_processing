@@ -1,13 +1,3 @@
-Here’s the updated **README** including the Python IoT Data Simulator.  
-
-📄 **To Update Your README in VS Code**, run:  
-```sh
-cat > README.md <<EOF
-```
-Then **copy-paste** the content below, and finally press **Ctrl + D** to save.
-
----
-
 # **Scalable IoT Data Processing**  
 ## **Overview**  
 This project is a scalable event-driven IoT data processing system built using **Kafka, PostgreSQL, and Java Spring Boot**. It efficiently processes **high-throughput IoT data streams** and can be deployed to **AWS using Terraform**.  
