@@ -41,11 +41,6 @@ Ensure you have the following installed:
 - Terraform  
 - PostgreSQL  
 
-### **Clone the Repository**  
-```sh
-git clone https://github.com/devthonangi/scalable_IoT_data_processing.git
-cd scalable_IoT_data_processing
-```
 
 ### **Start Kafka and PostgreSQL Using Docker**  
 ```sh
