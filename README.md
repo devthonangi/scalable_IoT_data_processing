@@ -1,8 +1,8 @@
-# ** 🚗 Scalable IoT Data Processing**  
+# **Scalable IoT Data Processing**  
 ## **Overview**  
 This project is a scalable, event-driven IoT data processing system designed for real-time ingestion and analysis of vehicle telemetry. Built with Apache Kafka, PostgreSQL, and Java Spring Boot, it processes high-throughput IoT data—including GPS, speed, acceleration, and harsh braking events—and is deployable to AWS using Terraform.
 
-## ** 📌 Features**  
+## **Features**  
 IoT Sensor Data Processing
 Ingests vehicle telemetry such as GPS, speed, acceleration, and harsh braking detection.
 
