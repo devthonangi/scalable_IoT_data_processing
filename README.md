@@ -3,28 +3,28 @@
 This project is a scalable, event-driven IoT data processing system designed for real-time ingestion and analysis of vehicle telemetry. Built with Apache Kafka, PostgreSQL, and Java Spring Boot, it processes high-throughput IoT data—including GPS, speed, acceleration, and harsh braking events—and is deployable to AWS using Terraform.
 
 ## **Features**  
-IoT Sensor Data Processing
+- IoT Sensor Data Processing
 Ingests vehicle telemetry such as GPS, speed, acceleration, and harsh braking detection.
 
-Apache Kafka for Real-time Streaming
+- Apache Kafka for Real-time Streaming
 Handles high-volume IoT data streams with low latency.
 
-Spring Boot API for Ingestion
+- Spring Boot API for Ingestion
 Robust backend API for consuming and processing sensor data.
 
-PostgreSQL for Storage and Querying
+- PostgreSQL for Storage and Querying
 Relational database for storing and analyzing incoming telemetry.
 
-Python IoT Simulator
+- Python IoT Simulator
 Simulates realistic vehicle data, including harsh braking events, for testing and validation.
 
-AWS Cloud Deployment
+- AWS Cloud Deployment
 Uses MSK (Kafka), RDS (PostgreSQL), and ECS (containers) for scalable deployment.
 
-Terraform for Infrastructure as Code
+- Terraform for Infrastructure as Code
 Automates provisioning of cloud resources.
 
-Docker Compose for Local Testing
+- Docker Compose for Local Testing
 Simplifies development and testing environments.
 
 
