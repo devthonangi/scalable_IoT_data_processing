@@ -28,14 +28,6 @@ Docker Compose for Local Testing
 Simplifies development and testing environments.
 
 
-- IoT Sensor Data Processing (Vehicle Telemetry, GPS, Speed, Acceleration)  
-- Apache Kafka for Real-time Streaming  
-- PostgreSQL for Data Storage and Querying  
-- Spring Boot API for Data Ingestion  
-- Python IoT Simulator for Testing  
-- AWS (MSK, RDS, ECS) for Cloud Deployment  
-- Terraform for Infrastructure as Code  
-- Docker-Compose for Local Testing  
 
 ## **Technologies Used**  
 - Java Spring Boot  
